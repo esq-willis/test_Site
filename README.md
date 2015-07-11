@@ -8,4 +8,4 @@ You can download the repo on the right hand side of github.
 
 # News
 
-New Content: Coming Soon!
+None because it's a sandbox site :p
