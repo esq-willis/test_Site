@@ -5,3 +5,7 @@
 # Getting Started
 
 You can download the repo on the right hand side of github.
+
+# News
+
+New Content: Coming Soon!
