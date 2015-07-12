@@ -29,5 +29,6 @@ nav ul li a {
 footer {
 	background: black;
 	color: white;
-	padding: 10px;
+	padding: .5%;
+	width: 100%;
 }
