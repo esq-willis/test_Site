@@ -4,5 +4,23 @@ body {
 }
 
 header {
-	background: #white;
+
+}
+
+.myPanel {
+	border: 1px solid #111;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 10px 10px 15px black;
+	margin: 3%;
+}
+
+.myPanel .header {
+	background: #ccc;
+	border-radius: 5px 5px 0 0;
+	color: #111;
+	padding: 10px 20px;
+}
+
+.myPanel .body {
+	padding: 10px 20px;
 }
