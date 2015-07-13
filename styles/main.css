@@ -1,34 +1,8 @@
 body {
 	margin: 0;
-	background: #000;
 	font-family: arial;
 }
 
 header {
-	background: #fff;
-	color: white;
-	padding: 5px 15px 0px;
-}
-
-nav ul{
-	margin: 0;
-}
-
-nav ul li {
-	background: black;
-	color: white;
-	display: inline-block;
-	list-style-type: none;
-	padding: 10px 15px;
-}
-
-nav ul li a {
-	color: white;
-}
-
-footer {
-	background: black;
-	color: white;
-	padding: .5%;
-	width: 100%;
+	background: #white;
 }
