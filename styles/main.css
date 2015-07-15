@@ -3,10 +3,6 @@ body {
 	font-family: arial;
 }
 
-.container .row {
-	padding: 20px 0 0 0;
-}
-
 .myPanel {
 	border: 1px solid #111;
 	border-radius: 5px 5px 0 0;
