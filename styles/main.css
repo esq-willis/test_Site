@@ -1,6 +1,5 @@
 body {
-	margin: 0;
-	font-family: arial;
+	background-color: #fff;
 }
 
 .myPanel {
@@ -19,4 +18,12 @@ body {
 
 .myPanel .body {
 	padding: 10px 20px;
+}
+
+h2, h3 {
+	margin: 10px;
+}
+
+.row{
+	padding: 5px;
 }
