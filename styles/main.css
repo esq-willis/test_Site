@@ -7,6 +7,14 @@ p {
 	padding: 10px;
 }
 
+h1 {
+	padding: 0 10px;
+}
+
+h2, h4 {
+	margin: 10px;
+}
+
 .container-fluid {
 	padding: 0 10px 0 10px;
 }
@@ -27,12 +35,4 @@ p {
 
 .myPanel .body {
 	padding: 10px 20px;
-}
-
-h1 {
-	padding: 0 10px;
-}
-
-h2, h4 {
-	margin: 10px;
 }
