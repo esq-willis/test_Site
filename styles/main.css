@@ -2,6 +2,14 @@ body {
 	background-color: #fff;
 }
 
+p {
+	padding: 10px;
+}
+
+.container-fluid {
+	padding: 0 10px 0 10px;
+}
+
 .myPanel {
 	border: 1px solid #111;
 	border-radius: 5px 5px 0 0;
@@ -20,10 +28,14 @@ body {
 	padding: 10px 20px;
 }
 
+h1 {
+	padding: 0 10px;
+}
+
 h2 {
 	margin: 10px;
 }
 
 h4 {
-	margin: 15px;
+	margin: 10px;
 }
