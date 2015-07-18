@@ -14,6 +14,6 @@ git clone --bare https://github.com/esq-willis/test_Site.git
 
 # To Do List
 
-1. Add more information to site
+1. Add social media links
 2. Format and change links in navbar
 3. Move headings to the right side
