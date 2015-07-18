@@ -3,6 +3,7 @@ body {
 }
 
 p {
+	font-family: monospace;
 	padding: 10px;
 }
 
