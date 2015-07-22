@@ -1,10 +1,7 @@
-body {
-	background: #718EAC;
-}
+
 
 p {
 	font-family: monospace;
-	padding: 10px;
 }
 
 h1 {
@@ -16,26 +13,8 @@ h2, h4 {
 }
 
 .container-fluid {
-	margin: 20px;
-	padding: 10px;
-}
-
-.myPanel {
-	border: 1px solid #111;
-	border-radius: 5px 5px 0 0;
-	box-shadow: 5px 5px 5px black;
-	margin: 1%;
-}
-
-.myPanel .header {
-	background: #ccc;
-	border-radius: 5px 5px 0 0;
-	color: #111;
-	padding: 10px 20px;
-}
-
-.myPanel .body {
-	padding: 10px 20px;
+	margin: 2%;
+	padding: 5px;
 }
 
 .list-group {
