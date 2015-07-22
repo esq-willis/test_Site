@@ -36,3 +36,7 @@ h2, h4 {
 .myPanel .body {
 	padding: 10px 20px;
 }
+
+.list-group {
+	margin: 1%;
+}
