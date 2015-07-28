@@ -14,4 +14,4 @@ git clone --bare https://github.com/esq-willis/test_Site.git
 
 # Challenge
 
-Add one feature a day, everyday.
+> Add one feature a day, everyday.
