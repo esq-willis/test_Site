@@ -27,3 +27,7 @@ h2, h4 {
 .panel {
 	margin: 1%;
 }
+
+.img-circle {
+	width: 140px;
+}
