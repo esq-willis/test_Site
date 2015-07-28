@@ -29,5 +29,7 @@ h2, h4 {
 }
 
 .img-circle {
+	display: block;
+	height: 140px;
 	width: 140px;
 }
