@@ -3,10 +3,6 @@ p {
 	font-family: monospace;
 }
 
-h1 {
-	padding: 0 10px;
-}
-
 h2, h4 {
 	margin: 5px;
 }
@@ -32,4 +28,9 @@ h2, h4 {
 	display: block;
 	height: 140px;
 	width: 140px;
+}
+
+.form-inline {
+	margin: 5px 20px;
+	padding: 10px;
 }
